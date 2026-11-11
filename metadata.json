@@ -1,0 +1,6 @@
+{
+  "name": "Pochito | Snacks & Delicias Artesanales",
+  "description": "Tienda digital y sistema de pedidos de Pochito. Snacks gourmet, palomitas de maíz artesanales, combos y pedidos directos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Don Pochito | Brostería & Hamburguesas",
+  "short_name": "Don Pochito",
+  "description": "Catálogo de pollos broaster, mostritos, hamburguesas y bebidas en Chincha.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8E7",
+  "theme_color": "#910608",
+  "icons": [
+    {
+      "src": "/icon-pochito.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
